@@ -1,0 +1,10 @@
+- At last the day has came
+- Frau Leuchtag and I are speaking nothing but English now
+- So we should feel at home ven ve get to America
+- A very nice idea
+- To America
+- To America
+- `Liebchen, uh, sweetness heart, what what?`
+- Ten watch
+- Such much?
+- Er, you will get along beautifully in America, huh
