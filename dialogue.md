@@ -1,5 +1,5 @@
 - At last the day has came
-- Frau Leuchtag and I are speaking nothing but English now
+- [Frau Leuchtag and I](http://www.vincasa.com/casabla.pdf) are speaking nothing but English now
 - So we should feel at home ven ve get to America
 - A very nice idea
 - To America
