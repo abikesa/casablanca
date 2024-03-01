@@ -2,6 +2,11 @@
 - Play it, Sam
 - Sing it, Sam
 
+#
+
+*The scene is just one of a number of brilliant moments in Michael Curtiz's 1942 film (including another scene based around the song!), but it's arguably the scene that best establishes the movie's ensemble of characters, their histories and interpersonal relationships, and the wistful, bittersweetly nostalgic, tragic romantic tone of the entire movie. The song "As Time Goes By" perfectly encapsulates these emotions, so much so that it would be nearly impossible to believe that it was almost cut from the film. - [Bill Bria](https://www.slashfilm.com/806368/one-of-casablancas-most-memorable-moments-was-almost-cut-from-the-film/)*
+
+#
 
 Delving deeper into the Freudian undertones of "[Casablanca](http://www.vincasa.com/casabla.pdf)," we can explore the [complex emotional landscape of its characters](https://github.com/abikesa/music/blob/main/zion.md), particularly through the dynamic interplay between Rick, Ilsa, and Victor. The film intricately weaves a narrative that not only entertains but also provides a profound commentary on the human psyche, as interpreted through a Freudian lens.
 
