@@ -8,6 +8,23 @@
 
 #
 
+- This is a very interesting cafe. I congratulate you
+- And I congratuldate you
+- What for?
+- Your work
+- Thank you. I try
+- `We all try. You succeed`
+- I can't get over you two. She was asking about you earlier, Rick, in a way the made me extremely jealous
+- I wasn't sure you were the same. Let's see, the last time we met --
+- -- It was "La Belle Aurore"
+- How nice. You remembered. But of course, that was the day the Germans marched into Paris
+- Not an easy day to forget
+- No
+- I remember every detail. Teh Germans wore gray, you wore blue
+- Yes. I put that dress away. When the Germans march out, I'll wear it again
+
+#
+
 Delving deeper into the Freudian undertones of "[Casablanca](http://www.vincasa.com/casabla.pdf)," we can explore the [complex emotional landscape of its characters](https://github.com/abikesa/music/blob/main/zion.md), particularly through the dynamic interplay between Rick, Ilsa, and Victor. The film intricately weaves a narrative that not only entertains but also provides a profound commentary on the human psyche, as interpreted through a Freudian lens.
 
 ### **Song: Freudian Ensemble and Oedipal Complex**
