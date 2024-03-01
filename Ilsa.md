@@ -6,7 +6,7 @@ In this light, the harmonic series metaphor can be reinterpreted: the fundamenta
 
 ### 2. Metaphysics: Equal Temperament
 
-The ambiguity of the film's resolution reflects the philosophical concept of equal temperament in life's ethical decisions. Rick and Ilsa's choice embodies a tempered balance between personal desire and the greater good, illustrating the moral compromises required in a world fraught with uncertainty and conflict.
+The ambiguity of the film's resolution reflects the philosophical concept of equal temperament in life's ethical decisions. Rick and Ilsa's choice embodies `a tempered balance` (Ego) between personal desire (Id) and the greater good (Superego), illustrating the moral compromises required in a world fraught with uncertainty and conflict.
 
 ### 3. Physics: Wave Theory
 
