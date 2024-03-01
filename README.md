@@ -1,3 +1,8 @@
+- Play it once, Sam
+- Play it, Sam
+- Sing it, Sam
+
+
 Delving deeper into the Freudian undertones of "[Casablanca](http://www.vincasa.com/casabla.pdf)," we can explore the [complex emotional landscape of its characters](https://github.com/abikesa/music/blob/main/zion.md), particularly through the dynamic interplay between Rick, Ilsa, and Victor. The film intricately weaves a narrative that not only entertains but also provides a profound commentary on the human psyche, as interpreted through a Freudian lens.
 
 ### **Song: Freudian Ensemble and Oedipal Complex**
