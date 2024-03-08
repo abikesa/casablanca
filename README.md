@@ -1,3 +1,14 @@
+- Rick is easy to understand:
+     1. Mismatch/Hideth/Children
+     2. Victory/Whineth/[Boyz-II-Men](https://www.youtube.com/watch?v=wM7hsJw6dWo)
+     3. Ragnarok/Tameth/Adults
+         - Here's where we find him at Rick's Cafe
+         - Sort of a regression to "hideth" in this corner of all bars, in all cities, of all countries of the world
+         - But also a progression from the "whineth" of Paris caused by the Ragnarok the Nazi's set off (think Nagasaki & Hiroshima and subsequent cold war)
+         - In a sense Rick "tameth" his patrons but also "resigneth" to fate in context of war and Ragnarok; gives support to idealists (who are merely at stage 2)
+
+#
+
 - Play it once, Sam
 - Play it, Sam
 - Sing it, Sam
