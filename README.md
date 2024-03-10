@@ -1,3 +1,24 @@
+                 1. Morpheus
+                            \
+                2. Hades -> 4. Dionysus -> 5. Prometheus -> 6. Athena
+                            /
+                            3. Cosmogonia
+# Casablanca
+
+1. Morpheus
+2. Hades
+3. Cosmogonia
+4. Dionysus
+5. Prometheus
+6. Athena
+   - This is the realm of Casablanca (i.e., life/war):
+      - Hideth: From painful memories; Migrate to America
+      - Whineth: Protest for a ideological cause; Pragmatism dominates 
+      - Tameth: A little patch of land called Rick's Café Americaine; Nazi "taming" all Europe
+
+
+# Rick
+   
 - Rick is easy to understand:
      1. Mismatch/Hideth/Children
      2. Victory/Whineth/[Boyz-II-Men](https://www.youtube.com/watch?v=wM7hsJw6dWo)
@@ -17,7 +38,7 @@
 
 *The scene is just one of a number of brilliant moments in Michael Curtiz's 1942 film (including another scene based around the song!), but it's arguably the scene that best establishes the movie's ensemble of characters, their histories and interpersonal relationships, and the wistful, bittersweetly nostalgic, tragic romantic tone of the entire movie. The song "As Time Goes By" perfectly encapsulates these emotions, so much so that it would be nearly impossible to believe that it was almost cut from the film. - [Bill Bria](https://www.slashfilm.com/806368/one-of-casablancas-most-memorable-moments-was-almost-cut-from-the-film/)*
 
-#
+# Dialogue
 
 - This is a very interesting cafe. I congratulate you
 - And I congratuldate you
