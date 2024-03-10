@@ -37,9 +37,9 @@ In essence, beauty is multifaceted and subjective. The [seduction](https://en.wi
 - Then a curious study for us
 - And then outrightly seductive when a "backstory" emerges in the form of "As Time Goes By"
 - Just like our Ab Arpeggio by LaFayetter Jr. is an unfolding of the harmonic series
-   - First the "lower" harmonics 1st, 3rd, 5th, 7th, and 9th
-   - Then mid-range 11th and 13th
-   - But ultimately "jazzy" 17th & 19th
+   - First the "lower" harmonics 1st, 3rd, 5th, 7th, and 9th (Pentatonic)
+   - Then mid-range 11th and 13th (Diatonic)
+   - But ultimately "jazzy" 17th & 19th (Chromatic)
       - A reharm with C7 as the final chord turns the melodic riff into a #9-b9 (i.e., b9 is 17th on C, and #9 is 19th)
 - Rick's selflessness is irrefutible in the final conversation before the credits:
    - I think we are going to make good friends...   
