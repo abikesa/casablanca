@@ -14,9 +14,11 @@
 4. Chromatic
 5. Temperament
 6. Expression
-    - Withdrawn
+    - Withdrawn/Mismatch
        - `Unresolved` conflict 
-    - Engaged
+    - Engaged/Victory
        - Personal growth, allegories of world affairs, weltanshauungs
-    - Imposition
-       - Nazi 
+       - If the film concluded with the simple message that `victory` requires sacrifice, then the ending would be a happy one.
+    - Imposition/Ragnarok
+       - Nazi
+       - It's really with the Russian allies that prospects of Ragnarok became eminent
