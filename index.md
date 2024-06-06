@@ -39,7 +39,7 @@
             <!--     <p>This is where I'd stick my neck out, if I had one.</p> -->
             <!-- </neck> -->
             <p>HTML might not have a "neck," but it certainly can support all kinds of creative content, just like Rick Blaine supports those in need, even if he claims otherwise.</p>
-            <iframe src="https://www.youtube.com/embed/ElgrXyJ-Huo&t=1s"></iframe>
+            <iframe src="https://www.youtube.com/embed/ElgrXyJ-Huo">Rick Blaine is like HTML</iframe> 
         </div>
     </div>
 </body>
